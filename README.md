@@ -1,6 +1,7 @@
 Here's a polished README template for your GitHub repository, incorporating emojis and a bold format to enhance readability and engagement.
 
----
+![screencapture-localhost-3000-2024-10-14-02_39_26](https://github.com/user-attachments/assets/0e0924b7-11c8-4f86-a627-87630440c31a)
+
 
 # 🌐 Portfolio Website
 
