@@ -12,8 +12,7 @@ Welcome to my portfolio project! This website showcases my skills, projects, and
 - [🛠️ Technologies Used](#technologies-used)
 - [🚀 Installation](#installation)
 - [💻 Usage](#usage)
-- [📜 License](#license)
-- [✉️ Contact](#contact)
+
 
 ## 🔍 About
 This portfolio website serves as a digital resume, highlighting my background in **web development**, **cloud computing**, and **UI/UX design**. It provides potential employers and clients with a comprehensive view of my capabilities and past work.
@@ -60,14 +59,9 @@ To run this project locally, follow these steps:
 - Open your browser and go to `http://localhost:3000` to view the website.
 - Explore the different sections to learn more about my skills and projects.
 
-## 📜 License
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
-## ✉️ Contact
-Feel free to connect with me on LinkedIn or reach out via email:
-
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prathamdubey-cloud-devops-web/))
+- **Email:** [your-email@example.com](mailto:prathamdubey03@gmail.com)
 
 ---
 
