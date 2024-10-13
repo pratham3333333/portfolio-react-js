@@ -63,8 +63,3 @@ To run this project locally, follow these steps:
 - **LinkedIn:** [Your LinkedIn Profile]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/prathamdubey-cloud-devops-web/))
 - **Email:** [your-email@example.com](mailto:prathamdubey03@gmail.com)
 
----
-
-### Notes:
-- Replace placeholders like `your-username`, `your-repo-name`, and personal links with your actual details.
-- Feel free to expand on any sections or adjust the content to reflect your style and preferences!
